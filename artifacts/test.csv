@@ -1,0 +1,354 @@
+Bedrooms,Bathrooms,Floor_no,Floor_area,City,Price_in_taka,Location
+3,2,7,1000,chattogram,5500000,Sholokbahar
+3,2,1,1100,dhaka,6500000,Mirpur
+3,2,3,1100,dhaka,4950000,Cantonment
+3,3,8,1370,chattogram,6850000,Kotwali
+3,2,1,2160,gazipur,9000000,Gazipur Sadar Upazila
+3,4,6,2000,chattogram,13000000,Khulshi
+3,3,1,1100,chattogram,4500000,Double Mooring
+3,2,5,1050,dhaka,4725000,Mirpur
+3,3,2,1150,chattogram,5200000,Bakalia
+3,2,1,2160,narayanganj-city,3375000,Narayanganj
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,6,2180,chattogram,9000000,4 No Chandgaon Ward
+3,3,7,1644,chattogram,9000000,7 No. West Sholoshohor Ward
+3,3,2,1544,chattogram,9264000,Sholokbahar
+3,3,7,1495,dhaka,15750000,Badda
+3,3,6,1350,dhaka,9500000,Aftab Nagar
+3,3,1,1455,chattogram,12500000,Jamal Khan
+3,3,3,1365,dhaka,7507500,Mirpur
+3,3,1,1275,dhaka,8500000,Agargaon
+3,3,6,1450,dhaka,9500000,Ibrahimpur
+3,2,4,1240,dhaka,8060000,Dakshin Khan
+3,3,9,1644,chattogram,9864000,Sholokbahar
+3,3,5,1383,dhaka,10800000,Dhanmondi
+3,4,3,1940,chattogram,16132000,15 No. Bagmoniram Ward
+3,3,6,1300,dhaka,5460000,Mirpur
+3,3,2,1425,dhaka,9000000,Rampura
+3,2,7,1080,gazipur,4320000,Gazipur Sadar Upazila
+3,3,4,1400,chattogram,8500000,Khulshi
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,8,1240,gazipur,4960000,Gazipur Sadar Upazila
+3,2,1,550,dhaka,8000000,Kuril
+3,3,2,1500,chattogram,6500000,10 No. North Kattali Ward
+3,2,3,1150,dhaka,6325000,Agargaon
+3,3,4,1440,chattogram,6000000,Bayazid
+3,3,5,1250,dhaka,11500000,Shiddheswari
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,3,1275,dhaka,8000000,Badda
+3,3,9,1450,cumilla,5800000,Bagichagaon
+3,3,1,1350,dhaka,8500000,Mirpur
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,2,4,1100,dhaka,4950000,Mirpur
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,1,1100,dhaka,6050000,Badda
+3,3,2,1545,chattogram,7500000,9 No. North Pahartali Ward
+3,4,2,1584,dhaka,12000000,Mirpur
+3,3,12,1400,chattogram,7500000,33 No. Firingee Bazaar Ward
+3,2,4,1080,gazipur,4320000,Gazipur Sadar Upazila
+3,3,6,1350,dhaka,11600000,Bashundhara R-A
+3,3,4,1563,chattogram,9200000,9 No. North Pahartali Ward
+3,3,4,1190,cumilla,5260000,Bagichagaon
+3,3,2,1850,dhaka,14800000,Aftab Nagar
+3,2,8,1140,dhaka,6200000,Mirpur
+3,3,2,1316,chattogram,6200000,9 No. North Pahartali Ward
+3,3,4,1150,dhaka,7975000,Mirpur
+3,3,2,1400,chattogram,8000000,Halishahar
+3,3,2,1265,dhaka,8800000,Mirpur
+3,3,9,1390,cumilla,5560000,Bagichagaon
+3,3,5,1475,dhaka,15000000,Malibagh
+3,3,1,1475,dhaka,15550000,Badda
+3,3,13,1547,cumilla,6961000,Jhautola
+3,3,1,1504,dhaka,7100000,Keraniganj
+3,3,6,1800,chattogram,15824000,Panchlaish
+3,3,8,1285,dhaka,7788000,Hazaribag
+3,4,2,1994,chattogram,15500000,Panchlaish
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,5,1120,dhaka,6160000,Rampura
+3,3,4,1450,chattogram,7500000,9 No. North Pahartali Ward
+3,3,4,1650,chattogram,9675000,Khulshi
+3,3,8,1350,gazipur,4500000,Gazipur Sadar Upazila
+3,3,9,1644,chattogram,9000000,7 No. West Sholoshohor Ward
+3,3,1,1200,chattogram,5400000,10 No. North Kattali Ward
+3,3,1,1000,gazipur,4000000,Gazipur Sadar Upazila
+3,4,8,1265,cumilla,5692500,Jhautola
+3,3,4,1110,chattogram,4440000,Double Mooring
+3,3,7,1537,chattogram,9000000,15 No. Bagmoniram Ward
+3,3,1,1500,dhaka,9000000,Uttara
+3,3,1,1235,dhaka,11800000,Hazaribag
+3,3,1,2000,chattogram,11000000,Halishahar
+3,3,4,1240,gazipur,4960000,Gazipur Sadar Upazila
+3,3,6,1587,dhaka,15900000,Motijheel
+3,2,3,1290,chattogram,8000000,22 No. Enayet Bazaar Ward
+3,3,8,1250,dhaka,7000000,Mirpur
+3,3,4,1620,chattogram,6800000,Bayazid
+3,3,6,1625,chattogram,7512500,4 No Chandgaon Ward
+3,3,1,1350,chattogram,6300000,9 No. North Pahartali Ward
+3,2,3,955,dhaka,5000000,Mirpur
+3,3,8,1485,dhaka,8167000,Mirpur
+3,3,1,1100,dhaka,5000000,Mirpur
+3,3,5,1305,chattogram,11000000,Khulshi
+3,3,6,1274,dhaka,10500000,Banasree
+3,2,6,970,dhaka,5000000,Bashabo
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,2,7,1032,gazipur,3600000,Gazipur Sadar Upazila
+3,3,6,1215,dhaka,7500000,Turag
+3,3,5,2000,chattogram,11000000,Halishahar
+3,3,4,1544,chattogram,9264000,Sholokbahar
+3,3,4,1331,chattogram,7600000,4 No Chandgaon Ward
+3,3,8,1350,gazipur,4500000,Gazipur Sadar Upazila
+3,3,2,1350,dhaka,11000000,Rampura
+3,3,9,1350,gazipur,4500000,Gazipur Sadar Upazila
+3,3,6,2100,dhaka,15750000,Bashundhara R-A
+3,3,7,1057,cumilla,5250000,Kandirpar
+3,3,1,1350,dhaka,12000000,Bashundhara R-A
+3,3,7,1445,cumilla,5780000,Chotora
+3,2,1,2160,narayanganj-city,3000000,Narayanganj
+3,2,1,1050,dhaka,4410000,Mirpur
+3,3,8,1450,cumilla,5510000,Bagichagaon
+3,2,5,725,dhaka,4800000,Mohammadpur
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,2,1,950,dhaka,7000000,Rampura
+3,3,9,1530,dhaka,15500000,Shegunbagicha
+3,2,2,307,dhaka,9210000,Sutrapur
+3,3,7,1105,dhaka,7500000,Mirpur
+3,3,1,1300,chattogram,8000000,Bakalia
+3,3,4,1100,chattogram,7000000,Lal Khan Bazaar
+3,3,3,1012,chattogram,4400000,11 No. South Kattali Ward
+3,3,7,1350,chattogram,7000000,7 No. West Sholoshohor Ward
+3,3,3,1550,dhaka,11500000,Bashundhara R-A
+3,2,1,2160,narayanganj-city,3375000,Narayanganj
+3,3,8,1650,chattogram,9675000,Khulshi
+3,2,4,1115,dhaka,5800000,Ibrahimpur
+3,3,6,1200,dhaka,5400000,Mirpur
+3,3,5,1250,chattogram,5500000,Double Mooring
+3,4,7,1350,chattogram,8000000,15 No. Bagmoniram Ward
+3,2,7,1150,dhaka,6500000,Mirpur
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,12,1672,chattogram,14200000,Panchlaish
+3,3,6,1459,chattogram,8462200,Double Mooring
+3,4,1,1654,dhaka,8500000,Uttara
+3,3,9,1240,gazipur,4960000,Gazipur Sadar Upazila
+3,3,6,1300,chattogram,7500000,Bayazid
+3,3,6,1250,dhaka,9000000,Mirpur
+3,3,4,1200,chattogram,8000000,11 No. South Kattali Ward
+3,3,3,1440,chattogram,6500000,Bayazid
+3,2,6,920,gazipur,3220000,Gazipur Sadar Upazila
+3,3,9,1380,cumilla,5520000,Bagichagaon
+3,3,2,1550,dhaka,14500000,Badda
+3,3,1,1262,chattogram,5679000,Bakalia
+3,3,2,1550,chattogram,6500000,4 No Chandgaon Ward
+3,3,3,1380,dhaka,9500000,Aftab Nagar
+3,3,2,1135,dhaka,7500000,Dakshin Khan
+3,3,5,1200,dhaka,6000000,Mirpur
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,5,1300,gazipur,5200000,Gazipur Sadar Upazila
+3,3,2,1290,dhaka,6500000,Mirpur
+3,3,6,1335,chattogram,5340000,Bakalia
+3,2,2,1150,chattogram,6200000,Double Mooring
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,5,1252,chattogram,6520000,7 No. West Sholoshohor Ward
+3,2,1,1150,dhaka,6500000,Tejgaon
+3,2,1,1090,dhaka,5500000,Mirpur
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,9,1459,chattogram,8462200,Double Mooring
+3,3,9,1350,dhaka,9000000,Mohammadpur
+3,3,4,1340,chattogram,8000000,Bayazid
+3,3,1,1435,chattogram,7000000,15 No. Bagmoniram Ward
+3,3,8,1645,chattogram,7731500,Halishahar
+3,4,6,1630,chattogram,8500000,Bayazid
+3,2,3,1245,dhaka,15500000,Niketan
+3,3,3,1517,chattogram,8000000,10 No. North Kattali Ward
+3,3,1,1450,dhaka,12000000,Bashundhara R-A
+3,3,8,1240,gazipur,4960000,Gazipur Sadar Upazila
+3,3,5,1400,dhaka,6500000,Agargaon
+3,3,5,1438,cumilla,5033000,Thakur Para
+3,2,2,1100,dhaka,6000000,Cantonment
+3,3,2,1433,chattogram,7800000,Bayazid
+3,2,1,2160,narayanganj-city,3150000,Narayanganj
+3,3,4,1300,gazipur,5200000,Gazipur Sadar Upazila
+3,2,4,1050,dhaka,5500000,Mirpur
+3,3,6,1250,dhaka,10800000,Hazaribag
+3,4,1,1510,chattogram,10419000,Bakalia
+3,2,8,1100,cumilla,6000000,Thakur Para
+3,3,8,1270,dhaka,6985000,Khilkhet
+3,4,5,1780,chattogram,10500000,Khulshi
+3,2,8,920,gazipur,3220000,Gazipur Sadar Upazila
+3,3,3,1699,chattogram,8495000,9 No. North Pahartali Ward
+3,3,8,1580,chattogram,8000000,7 No. West Sholoshohor Ward
+3,3,5,1100,chattogram,6500000,Lal Khan Bazaar
+3,3,1,1313,chattogram,6500000,Bayazid
+3,2,6,1220,dhaka,5000000,Mirpur
+3,3,10,1500,chattogram,8600000,Double Mooring
+3,3,6,1275,dhaka,12500000,Bashundhara R-A
+3,3,4,1500,chattogram,9000000,Khulshi
+3,2,6,1080,gazipur,4320000,Gazipur Sadar Upazila
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,6,1500,chattogram,8300000,Double Mooring
+3,3,5,1325,dhaka,6500000,Mirpur
+3,2,8,1050,narayanganj-city,6000000,Demra
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,1,1650,dhaka,7500000,Mohammadpur
+3,3,1,1554,dhaka,11500000,Mirpur
+3,3,2,1300,chattogram,9700000,Khulshi
+3,3,1,1332,dhaka,7326000,Ibrahimpur
+3,3,2,1750,dhaka,12000000,Uttara
+3,3,2,1248,dhaka,3244800,Dumni
+3,3,2,1485,chattogram,8000000,10 No. North Kattali Ward
+3,3,6,1050,gazipur,3990000,Gazipur Sadar Upazila
+3,3,2,1250,dhaka,5250000,Mirpur
+3,3,5,1350,chattogram,6075000,7 No. West Sholoshohor Ward
+3,4,4,1429,chattogram,8500000,Bayazid
+3,2,4,1500,chattogram,6000000,Double Mooring
+3,4,8,1620,chattogram,10854000,Khulshi
+3,3,1,1600,dhaka,12800000,Aftab Nagar
+3,3,7,1358,cumilla,4753000,Thakur Para
+3,3,4,1260,dhaka,8000000,Mirpur
+3,3,7,1300,cumilla,5200000,Bagichagaon
+3,4,11,1800,chattogram,12500000,Bayazid
+3,3,6,1360,dhaka,10000000,Bashundhara R-A
+3,3,6,1200,dhaka,6000000,Mirpur
+3,3,6,1004,gazipur,3815200,Gazipur Sadar Upazila
+3,2,6,1100,dhaka,5800000,Ibrahimpur
+3,3,3,1550,chattogram,7750000,Double Mooring
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,8,1547,cumilla,6965000,Jhautola
+3,4,8,1550,chattogram,12000000,16 No. Chawk Bazaar Ward
+3,3,8,1505,chattogram,6500000,7 No. West Sholoshohor Ward
+3,3,11,1115,dhaka,6700000,Mirpur
+3,3,9,1550,chattogram,7500000,4 No Chandgaon Ward
+3,3,9,1550,chattogram,6500000,4 No Chandgaon Ward
+3,3,3,1350,cumilla,5130000,Thakur Para
+3,2,3,1125,dhaka,4775000,Dakshin Khan
+3,2,1,2160,narayanganj-city,3900000,Narayanganj
+3,2,6,1000,dhaka,7000000,Dakshin Khan
+3,3,6,1382,chattogram,6800000,7 No. West Sholoshohor Ward
+3,2,5,852,chattogram,3500000,22 No. Enayet Bazaar Ward
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,1,1238,dhaka,11000000,Kalabagan
+3,3,5,1200,dhaka,6600000,Mirpur
+3,3,6,1200,dhaka,5500000,Mirpur
+3,3,2,1325,chattogram,5300000,Bakalia
+3,2,4,1075,dhaka,5500000,Mirpur
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,9,1200,cumilla,5500000,Kandirpar
+3,3,1,1332,dhaka,5594400,Mirpur
+3,3,6,1325,chattogram,5300000,Bakalia
+3,4,8,1572,chattogram,8460000,16 No. Chawk Bazaar Ward
+3,3,9,1233,cumilla,5301900,Kandirpar
+3,3,8,1350,gazipur,4500000,Gazipur Sadar Upazila
+3,3,2,2100,chattogram,16800000,South Khulsi
+3,2,3,1000,dhaka,6500000,Mirpur
+3,2,1,2160,narayanganj-city,3900000,Narayanganj
+3,3,6,1300,chattogram,9700000,Khulshi
+3,4,8,1592,chattogram,8560000,16 No. Chawk Bazaar Ward
+3,3,9,1250,dhaka,6500000,Mirpur
+3,3,1,1400,dhaka,12500000,Bashundhara R-A
+3,3,2,1480,dhaka,10000000,Mirpur
+3,3,2,1252,dhaka,7000000,Badda
+3,2,1,2160,narayanganj-city,3600000,Narayanganj
+3,3,4,1621,chattogram,10500000,Muradpur
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,8,1835,chattogram,13000000,10 No. North Kattali Ward
+3,3,6,1013,cumilla,5000000,Kandirpar
+3,3,7,1470,cumilla,5590000,Bagichagaon
+3,3,7,1450,cumilla,5510000,Bagichagaon
+3,3,3,1100,dhaka,9000000,North Shahjahanpur
+3,3,2,1000,chattogram,5000000,33 No. Firingee Bazaar Ward
+3,3,7,1644,chattogram,9864000,Sholokbahar
+3,3,7,1250,dhaka,8625000,Mirpur
+3,3,3,1175,chattogram,5875000,9 No. North Pahartali Ward
+3,3,1,1459,chattogram,8462200,Double Mooring
+3,3,5,1475,dhaka,15550000,Badda
+3,2,1,2160,narayanganj-city,3900000,Narayanganj
+3,2,3,900,dhaka,6000000,Mirpur
+3,3,6,1570,chattogram,11000000,Khulshi
+3,3,1,1206,chattogram,5427000,Bakalia
+3,3,2,1350,dhaka,7400000,Mirpur
+3,3,4,1300,chattogram,7200000,Bayazid
+3,3,2,1600,dhaka,14000000,Uttara
+3,3,4,1420,dhaka,11500000,Mirpur
+3,3,1,1050,dhaka,4500000,Mirpur
+3,3,7,1150,dhaka,6700000,Cantonment
+3,3,8,1550,chattogram,9335000,Double Mooring
+3,3,7,1335,chattogram,5340000,Bakalia
+3,2,1,286,chattogram,7150000,4 No Chandgaon Ward
+3,3,8,1408,chattogram,5632000,7 No. West Sholoshohor Ward
+3,2,1,2160,narayanganj-city,3375000,Narayanganj
+3,2,5,240,chattogram,5520000,Bakalia
+3,3,6,1360,chattogram,8000000,7 No. West Sholoshohor Ward
+3,2,3,240,chattogram,5520000,Bakalia
+3,2,7,1080,gazipur,4320000,Gazipur Sadar Upazila
+3,3,3,1250,dhaka,7500000,Badda
+3,3,4,1600,chattogram,10000000,Khulshi
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,6,1600,chattogram,7000000,9 No. North Pahartali Ward
+3,2,1,2160,narayanganj-city,3000000,Narayanganj
+3,3,5,1300,dhaka,8300000,Aftab Nagar
+3,3,6,1400,chattogram,7000000,Bayazid
+3,3,6,1200,chattogram,4500000,Bayazid
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,3,2400,chattogram,12000000,4 No Chandgaon Ward
+3,3,5,1428,chattogram,4998000,Halishahar
+3,4,6,1800,chattogram,12500000,Bayazid
+3,3,7,1255,dhaka,6902500,Khilkhet
+3,3,1,1350,dhaka,12000000,Bashundhara R-A
+3,3,8,1415,cumilla,5660000,Chotora
+3,3,2,1180,dhaka,6500000,Mirpur
+3,3,4,1400,dhaka,6300000,Mirpur
+3,4,4,1370,dhaka,9500000,Kalabagan
+3,3,1,1120,dhaka,5600000,Mirpur
+3,3,6,1133,dhaka,5200000,Mirpur
+3,3,4,1400,cumilla,4900000,Ashoktala
+3,3,7,1240,gazipur,4960000,Gazipur Sadar Upazila
+3,3,10,1500,chattogram,9000000,4 No Chandgaon Ward
+3,3,1,1544,chattogram,9264000,Sholokbahar
+3,3,13,1096,dhaka,6600000,Mirpur
+3,3,4,1200,dhaka,5000000,Mirpur
+3,2,1,1958,chattogram,5500000,Patenga
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,7,1350,gazipur,4500000,Gazipur Sadar Upazila
+3,3,6,1300,chattogram,9700000,Khulshi
+3,3,3,1000,gazipur,4000000,Gazipur Sadar Upazila
+3,3,4,900,dhaka,4050000,Kuril
+3,3,8,1440,chattogram,8200000,9 No. North Pahartali Ward
+3,3,1,1360,dhaka,8000000,Mirpur
+3,3,2,1550,chattogram,9335000,Double Mooring
+3,3,5,1360,chattogram,7888000,Double Mooring
+3,3,4,1186,chattogram,5337000,Bakalia
+3,2,4,820,dhaka,6000000,Mirpur
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,3,6,1239,dhaka,11000000,Uttara
+3,3,1,1350,dhaka,10150000,Mirpur
+3,2,8,1150,dhaka,4870000,Dakshin Khan
+3,3,6,1050,narayanganj-city,8000000,Demra
+3,2,3,1175,dhaka,7000000,Mirpur
+3,3,3,1739,chattogram,8695000,9 No. North Pahartali Ward
+3,3,1,1365,chattogram,6000000,Bayazid
+3,3,8,1487,chattogram,9000000,Bakalia
+3,3,5,1575,chattogram,14014000,16 No. Chawk Bazaar Ward
+3,3,2,1500,chattogram,8250000,Bakalia
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,2,1,2160,narayanganj-city,4575000,Narayanganj
+3,2,1,247,chattogram,2964000,29 No. West Madarbari Ward
+3,3,2,1300,gazipur,5200000,Gazipur Sadar Upazila
+3,3,4,1336,chattogram,8000000,9 No. North Pahartali Ward
+3,3,1,850,dhaka,7000000,Mirpur
+3,3,6,1500,dhaka,12500000,Bashundhara R-A
+3,3,7,1250,dhaka,8200000,Mirpur
+3,3,5,1200,chattogram,6000000,Lal Khan Bazaar
+3,2,1,240,chattogram,6000000,Bakalia
+3,3,5,1580,chattogram,7900000,33 No. Firingee Bazaar Ward
+3,3,11,1450,cumilla,5900000,Bagichagaon
+3,3,2,1415,chattogram,5820000,Double Mooring
+3,3,7,1310,dhaka,9200000,Mirpur
+3,2,4,1000,dhaka,3800000,Mirpur
+3,3,4,1410,dhaka,13800000,Shantinagar
+3,3,7,1300,dhaka,7800000,Mirpur
+3,3,2,1180,dhaka,7000000,Banasree
+3,3,9,1536,chattogram,5683200,4 No Chandgaon Ward
+3,3,2,1200,chattogram,6000000,33 No. Firingee Bazaar Ward
+3,2,6,950,gazipur,2950000,Gazipur Sadar Upazila
+3,3,1,1230,chattogram,6396000,30 No. East Madarbari Ward
